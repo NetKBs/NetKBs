@@ -25,7 +25,7 @@
 
 ## Connect with me  
 <div>
-<a href="https://github.com/NetKBs" target="_blank" target="_blank">
+<a href="https://github.com/NetKBs" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/abiham-ramos-ba594722a/" target="_blank">

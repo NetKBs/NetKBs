@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently a Computer Engineering student
   
-- 🌱 I’m currently learning Spring with Spring boot
+- 🌱 I’m currently learning stuff
   
 - ⚡ Fun fact: I once said that I didn't like coding (but I was lying).
   
